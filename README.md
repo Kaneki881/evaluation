@@ -23,6 +23,14 @@ mvn -pl exercice1-stock test
 mvn -pl exercice2-projets test
 mvn -pl exercice3-etat-civil test
 ```
+## Resultat
+Exercice 1 
+<img width="1449" height="681" alt="image" src="https://github.com/user-attachments/assets/898ec19d-21aa-40fc-b94b-2da57b973a8f" />
+Exercice 2
+<img width="1840" height="765" alt="image" src="https://github.com/user-attachments/assets/8524b1ba-5b99-4655-841c-bace6e168cf0" />
+Exercice 3
+<img width="1849" height="779" alt="image" src="https://github.com/user-attachments/assets/a698b8d1-8c7e-4b22-b2d1-72e751801cd0" />
+
 
 Les classes `StockTest`, `ProjetsTest` et `EtatCivilTest` créent des données d'exemple et vérifient les fonctions demandées, les requêtes nommées, la requête SQL native, l'API Criteria et les affichages.
 
